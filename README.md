@@ -12,6 +12,7 @@ So we need to follow the following procedure to make it work:
 6) Update the system using sudo apt-get update. 
 7) Now run the code it will work.
 
+
 import matplotlib.pyplot as plt
 
 from mpl_toolkits.basemap import Basemap
